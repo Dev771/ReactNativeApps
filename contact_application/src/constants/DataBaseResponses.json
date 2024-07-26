@@ -1,0 +1,8 @@
+{
+    "ERROR_RESPONSE" : "Sorry an error Occured Please Try again!!!",
+    "USER_ALREADY_EXISTS" : "User with similar name Exists!!!",
+    "CONTACT_UPDATE_SUCCESS" : "Contact Updated Successfully",
+    "INSERT_SUCCESS" : "Contact Inserted Successfully!!",
+    "DELETE_SUCCESS" : "Contact Deleted Successfully!!",
+    "ADD_ALL_Details" : "Please Fill All the details"
+}
